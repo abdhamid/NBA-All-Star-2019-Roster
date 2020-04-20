@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NBA All Star 2019 Roster</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="disclaimer">Disclaimer : Developer doesn\'t own any rights to pictures or logo in this app. This app is intended for educational purposes only.</string>
+</resources>
